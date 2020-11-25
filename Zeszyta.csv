@@ -1,0 +1,640 @@
+kod;nazwa;czas;przypadki
+0;POLSKA;04.03;1
+0;POLSKA;05.03;1
+0;POLSKA;06.03;5
+0;POLSKA;07.03;6
+0;POLSKA;08.03;11
+0;POLSKA;09.03;17
+0;POLSKA;10.03;22
+0;POLSKA;11.03;31
+0;POLSKA;12.03;51
+0;POLSKA;13.03;68
+0;POLSKA;14.03;104
+0;POLSKA;15.03;125
+0;POLSKA;16.03;177
+0;POLSKA;17.03;238
+0;POLSKA;18.03;287
+0;POLSKA;19.03;355
+0;POLSKA;20.03;425
+0;POLSKA;21.03;536
+0;POLSKA;22.03;634
+0;POLSKA;23.03;749
+0;POLSKA;24.03;901
+0;POLSKA;25.03;1051
+0;POLSKA;26.03;1221
+0;POLSKA;27.03;1389
+0;POLSKA;28.03;1638
+0;POLSKA;29.03;1862
+0;POLSKA;30.03;2055
+0;POLSKA;31.03;2311
+0;POLSKA;01.04;2554
+0;POLSKA;02.04;2946
+0;POLSKA;03.04;3383
+0;POLSKA;04.04;3627
+0;POLSKA;05.04;4102
+0;POLSKA;06.04;4413
+0;POLSKA;07.04;4848
+0;POLSKA;08.04;5205
+0;POLSKA;09.04;5575
+0;POLSKA;10.04;5955
+0;POLSKA;11.04;6356
+0;POLSKA;12.04;6674
+0;POLSKA;13.04;6932
+0;POLSKA;14.04;7202
+0;POLSKA;15.04;7582
+0;POLSKA;16.04;7918
+0;POLSKA;17.04;8375
+0;POLSKA;18.04;8709
+0;POLSKA;19.04;9224
+0;POLSKA;20.04;9530
+0;POLSKA;21.04;9793
+0;POLSKA;22.04;10106
+0;POLSKA;23.04;10448
+0;POLSKA;24.04;10829
+0;POLSKA;25.04;11210
+0;POLSKA;26.04;11554
+0;POLSKA;27.04;11839
+0;POLSKA;28.04;12155
+0;POLSKA;29.04;12577
+0;POLSKA;30.04;12877
+0;POLSKA;01.05;13105
+0;POLSKA;02.05;13375
+0;POLSKA;03.05;13693
+0;POLSKA;04.05;14006
+0;POLSKA;05.05;14412
+0;POLSKA;06.05;14732
+0;POLSKA;07.05;15026
+0;POLSKA;08.05;15363
+0;POLSKA;09.05;15651
+0;POLSKA;10.05;15996
+0;POLSKA;11.05;16326
+0;POLSKA;12.05;16882
+0;POLSKA;13.05;17204
+0;POLSKA;14.05;17615
+0;POLSKA;15.05;18016
+0;POLSKA;16.05;18257
+0;POLSKA;17.05;18529
+0;POLSKA;18.05;18885
+0;POLSKA;19.05;19267
+0;POLSKA;20.05;19738
+0;POLSKA;21.05;20141
+0;POLSKA;22.05;20612
+0;POLSKA;23.05;20927
+0;POLSKA;24.05;21288
+0;POLSKA;25.05;21629
+0;POLSKA;26.05;22072
+0;POLSKA;27.05;22469
+0;POLSKA;28.05;22821
+0;POLSKA;29.05;23153
+0;POLSKA;30.05;23565
+0;POLSKA;31.05;23784
+0;POLSKA;01.06;24159
+0;POLSKA;02.06;24395
+0;POLSKA;03.06;24687
+0;POLSKA;04.06;25058
+0;POLSKA;05.06;25410
+0;POLSKA;06.06;25986
+0;POLSKA;07.06;26561
+0;POLSKA;08.06;27160
+0;POLSKA;09.06;27560
+0;POLSKA;10.06;27842
+0;POLSKA;11.06;28201
+0;POLSKA;12.06;28577
+0;POLSKA;13.06;29017
+0;POLSKA;14.06;29392
+0;POLSKA;15.06;29788
+0;POLSKA;16.06;30195
+0;POLSKA;17.06;30645
+0;POLSKA;18.06;30959
+0;POLSKA;19.06;31311
+0;POLSKA;20.06;31620
+0;POLSKA;21.06;31931
+0;POLSKA;22.06;32227
+0;POLSKA;23.06;32527
+0;POLSKA;24.06;32821
+0;POLSKA;25.06;33110
+0;POLSKA;26.06;33395
+0;POLSKA;27.06;33714
+0;POLSKA;28.06;33907
+0;POLSKA;29.06;34154
+0;POLSKA;30.06;34393
+0;POLSKA;01.07;34775
+0;POLSKA;02.07;35146
+0;POLSKA;03.07;35405
+0;POLSKA;04.07;35719
+0;POLSKA;05.07;35950
+0;POLSKA;06.07;36155
+0;POLSKA;07.07;36412
+0;POLSKA;08.07;36689
+0;POLSKA;09.07;36951
+0;POLSKA;10.07;37216
+0;POLSKA;11.07;37521
+0;POLSKA;12.07;37891
+0;POLSKA;13.07;38190
+0;POLSKA;14.07;38457
+0;POLSKA;15.07;38721
+0;POLSKA;16.07;39054
+0;POLSKA;17.07;39407
+0;POLSKA;18.07;39746
+0;POLSKA;19.07;40104
+0;POLSKA;20.07;40383
+0;POLSKA;21.07;40782
+0;POLSKA;22.07;41162
+0;POLSKA;23.07;41580
+0;POLSKA;24.07;42038
+0;POLSKA;25.07;42622
+0;POLSKA;26.07;43065
+0;POLSKA;27.07;43402
+0;POLSKA;28.07;43904
+0;POLSKA;29.07;44416
+0;POLSKA;30.07;45031
+0;POLSKA;31.07;45688
+0;POLSKA;01.08;46346
+0;POLSKA;02.08;46894
+0;POLSKA;03.08;47469
+0;POLSKA;04.08;48149
+0;POLSKA;05.08;48789
+0;POLSKA;06.08;49515
+0;POLSKA;07.08;50324
+0;POLSKA;08.08;51167
+0;POLSKA;09.08;51791
+0;POLSKA;10.08;52410
+0;POLSKA;11.08;52961
+0;POLSKA;12.08;53676
+0;POLSKA;13.08;54487
+0;POLSKA;14.08;55319
+0;POLSKA;15.08;56090
+0;POLSKA;16.08;56684
+0;POLSKA;17.08;57279
+0;POLSKA;18.08;57876
+0;POLSKA;19.08;58611
+0;POLSKA;20.08;59378
+0;POLSKA;21.08;60281
+0;POLSKA;22.08;61181
+0;POLSKA;23.08;61762
+0;POLSKA;24.08;62310
+0;POLSKA;25.08;63073
+0;POLSKA;26.08;63802
+0;POLSKA;27.08;64689
+0;POLSKA;28.08;65480
+0;POLSKA;29.08;66239
+0;POLSKA;30.08;66870
+0;POLSKA;31.08;67372
+0;POLSKA;01.09;67922
+0;POLSKA;02.09;68517
+0;POLSKA;03.09;69129
+0;POLSKA;04.09;69820
+0;POLSKA;05.09;70387
+0;POLSKA;06.09;70824
+0;POLSKA;07.09;71126
+0;POLSKA;08.09;71526
+0;POLSKA;09.09;71947
+0;POLSKA;10.09;72453
+0;POLSKA;11.09;73047
+0;POLSKA;12.09;73650
+0;POLSKA;13.09;74152
+0;POLSKA;14.09;74529
+0;POLSKA;15.09;75134
+0;POLSKA;16.09;75734
+0;POLSKA;17.09;76571
+0;POLSKA;18.09;77328
+0;POLSKA;19.09;78330
+0;POLSKA;20.09;79240
+0;POLSKA;21.09;79988
+0;POLSKA;22.09;80699
+0;POLSKA;23.09;81673
+0;POLSKA;24.09;82809
+0;POLSKA;25.09;84396
+0;POLSKA;26.09;85980
+0;POLSKA;27.09;87330
+0;POLSKA;28.09;88636
+0;POLSKA;29.09;89962
+0;POLSKA;30.09;91514
+0;POLSKA;01.10;93481
+0;POLSKA;02.10;95773
+0;POLSKA;03.10;98140
+0;POLSKA;04.10;100074
+0;POLSKA;05.10;102080
+0;POLSKA;06.10;104316
+0;POLSKA;07.10;107319
+0;POLSKA;08.10;111599
+0;POLSKA;09.10;116338
+0;POLSKA;10.10;121638
+0;POLSKA;11.10;125816
+0;POLSKA;12.10;130210
+0;POLSKA;13.10;135278
+0;POLSKA;14.10;141804
+0;POLSKA;15.10;149903
+0;POLSKA;16.10;157608
+0;POLSKA;17.10;167230
+0;POLSKA;18.10;175766
+0;POLSKA;19.10;183248
+0;POLSKA;20.10;192539
+0;POLSKA;21.10;202579
+0;POLSKA;22.10;214686
+0;POLSKA;23.10;228318
+0;POLSKA;24.10;241946
+0;POLSKA;25.10;253688
+0;POLSKA;26.10;263929
+0;POLSKA;27.10;280229
+0;POLSKA;28.10;299049
+0;POLSKA;29.10;319205
+0;POLSKA;30.10;340834
+0;POLSKA;31.10;362731
+0;POLSKA;01.11;379903
+0;POLSKA;02.11;395481
+0;POLSKA;03.11;414844
+0;POLSKA;04.11;439536
+0;POLSKA;05.11;466679
+0;POLSKA;06.11;493765
+0;POLSKA;07.11;521640
+0;POLSKA;08.11;546425
+0;POLSKA;09.11;568138
+0;POLSKA;10.11;593622
+0;POLSKA;11.11;361397
+0;POLSKA;12.11;383805
+0;POLSKA;13.11;665547
+0;POLSKA;14.11;691118
+0;POLSKA;15.11;712972
+0;POLSKA;16.11;733788
+0;POLSKA;17.11;752940
+0;POLSKA;18.11;772823
+0;POLSKA;19.11;796798
+0;POLSKA;20.11;819262
+0200;DOLNOŒL¥SKIE;;
+0201;Powiat boles³awiecki;;
+0202;Powiat dzier¿oniowski;;
+0203;Powiat g³ogowski;;
+0204;Powiat górowski;;
+0205;Powiat jaworski;;
+0261;Powiat m.Jelenia Góra;;
+0206;Powiat jeleniogórski;;
+0207;Powiat kamiennogórski;;
+0208;Powiat k³odzki;;
+0262;Powiat m.Legnica;;
+0209;Powiat legnicki;;
+0210;Powiat lubañski;;
+0211;Powiat lubiñski;;
+0212;Powiat lwówecki;;
+0213;Powiat milicki;;
+0214;Powiat oleœnicki;;
+0215;Powiat o³awski;;
+0216;Powiat polkowicki;;
+0217;Powiat strzeliñski;;
+0218;Powiat œredzki;;
+0219;Powiat œwidnicki;;
+0220;Powiat trzebnicki;;
+0265;Powiat m.Wa³brzych;;
+0221;Powiat wa³brzyski;;
+0222;Powiat wo³owski;;
+0264;Powiat m.Wroc³aw;;
+0223;Powiat wroc³awski;;
+0224;Powiat z¹bkowicki;;
+0225;Powiat zgorzelecki;;
+0226;Powiat z³otoryjski;;
+0400;KUJAWSKO-POMORSKIE;;
+0401;Powiat aleksandrowski;;
+0402;Powiat brodnicki;;
+0403;Powiat bydgoski;;
+0461;Powiat m.Bydgoszcz;;
+0404;Powiat che³miñski;;
+0405;Powiat golubsko-dobrzyñski;;
+0406;Powiat grudzi¹dzki;;
+0462;Powiat m.Grudzi¹dz;;
+0407;Powiat inowroc³awski;;
+0408;Powiat lipnowski;;
+0409;Powiat mogileñski;;
+0410;Powiat nakielski;;
+0411;Powiat radziejowski;;
+0412;Powiat rypiñski;;
+0413;Powiat sêpoleñski;;
+0414;Powiat œwiecki;;
+0415;Powiat toruñski;;
+0463;Powiat m.Toruñ;;
+0416;Powiat tucholski;;
+0417;Powiat w¹brzeski;;
+0418;Powiat w³oc³awski;;
+0464;Powiat m.W³oc³awek;;
+0419;Powiat ¿niñski;;
+0600;LUBELSKIE;;
+0601;Powiat bialski;;
+0661;Powiat m.Bia³a Podlaska;;
+0602;Powiat bi³gorajski;;
+0603;Powiat che³mski;;
+0604;Powiat hrubieszowski;;
+0605;Powiat janowski;;
+0606;Powiat krasnostawski;;
+0607;Powiat kraœnicki;;
+0608;Powiat lubartowski;;
+0609;Powiat lubelski;;
+0610;Powiat ³êczyñski;;
+0611;Powiat ³ukowski;;
+0612;Powiat opolski;;
+0613;Powiat parczewski;;
+0614;Powiat pu³awski;;
+0615;Powiat radzyñski;;
+0616;Powiat rycki;;
+0617;Powiat œwidnicki;;
+0618;Powiat tomaszowski;;
+0619;Powiat w³odawski;;
+0620;Powiat zamojski;;
+0800;LUBUSKIE;;
+0801;Powiat gorzowski;;
+0861;Powiat m.Gorzów Wielkopolski;;
+0802;Powiat kroœnieñski;;
+0803;Powiat miêdzyrzecki;;
+0804;Powiat nowosolski;;
+0805;Powiat s³ubicki;;
+0806;Powiat strzelecko-drezdenecki;;
+0807;Powiat sulêciñski;;
+0808;Powiat œwiebodziñski;;
+0809;Powiat zielonogórski;;
+0862;Powiat m.Zielona Góra;;
+0810;Powiat ¿agañski;;
+0811;Powiat ¿arski;;
+0812;Powiat wschowski;;
+1000;£ÓDZKIE;;
+1001;Powiat be³chatowski;;
+1021;Powiat brzeziñski;;
+1002;Powiat kutnowski;;
+1003;Powiat ³aski;;
+1004;Powiat ³êczycki;;
+1005;Powiat ³owicki;;
+1006;Powiat ³ódzki wschodni;;
+1007;Powiat opoczyñski;;
+1008;Powiat pabianicki;;
+1009;Powiat pajêczañski;;
+1010;Powiat piotrkowski;;
+1011;Powiat poddêbicki;;
+1012;Powiat radomszczañski;;
+1013;Powiat rawski;;
+1014;Powiat sieradzki;;
+1015;Powiat skierniewicki;;
+1016;Powiat tomaszowski;;
+1017;Powiat wieluñski;;
+1018;Powiat wieruszowski;;
+1019;Powiat zduñskowolski;;
+1020;Powiat zgierski;;
+1200;MA£OPOLSKIE;;
+1201;Powiat bocheñski;;
+1202;Powiat brzeski;;
+1203;Powiat chrzanowski;;
+1204;Powiat d¹browski;;
+1205;Powiat gorlicki;;
+1206;Powiat krakowski;;
+1261;Powiat m.Kraków;;
+1207;Powiat limanowski;;
+1208;Powiat miechowski;;
+1209;Powiat myœlenicki;;
+1210;Powiat nowos¹decki;;
+1262;Powiat m.Nowy S¹cz;;
+1211;Powiat nowotarski;;
+1212;Powiat olkuski;;
+1213;Powiat oœwiêcimski;;
+1214;Powiat proszowicki;;
+1215;Powiat suski;;
+1216;Powiat tarnowski;;
+1263;Powiat m.Tarnów;;
+1217;Powiat tatrzañski;;
+1218;Powiat wadowicki;;
+1219;Powiat wielicki;;
+1400;MAZOWIECKIE;;
+1401;Powiat bia³obrzeski;;
+1402;Powiat ciechanowski;;
+1403;Powiat garwoliñski;;
+1404;Powiat gostyniñski;;
+1405;Powiat grodziski;;
+1406;Powiat grójecki;;
+1407;Powiat kozienicki;;
+1408;Powiat legionowski;;
+1409;Powiat lipski;;
+1410;Powiat ³osicki;;
+1411;Powiat makowski;;
+1412;Powiat miñski;;
+1413;Powiat m³awski;;
+1414;Powiat nowodworski;;
+1415;Powiat ostro³êcki;;
+1416;Powiat ostrowski;;
+1417;Powiat otwocki;;
+1418;Powiat piaseczyñski;;
+1419;Powiat p³ocki;;
+1420;Powiat p³oñski;;
+1421;Powiat pruszkowski;;
+1422;Powiat przasnyski;;
+1423;Powiat przysuski;;
+1424;Powiat pu³tuski;;
+1425;Powiat radomski;;
+1426;Powiat siedlecki;;
+1427;Powiat sierpecki;;
+1428;Powiat sochaczewski;;
+1429;Powiat soko³owski;;
+1430;Powiat szyd³owiecki;;
+1432;Powiat warszawski zachodni;;
+1465;Powiat m. st. Warszawa;;
+1433;Powiat wêgrowski;;
+1434;Powiat wo³omiñski;;
+1435;Powiat wyszkowski;;
+1436;Powiat zwoleñski;;
+1437;Powiat ¿uromiñski;;
+1438;Powiat ¿yrardowski;;
+1600;OPOLSKIE;;
+1601;Powiat brzeski;;
+1602;Powiat g³ubczycki;;
+1603;Powiat kêdzierzyñsko-kozielski;;
+1604;Powiat kluczborski;;
+1605;Powiat krapkowicki;;
+1606;Powiat namys³owski;;
+1607;Powiat nyski;;
+1608;Powiat oleski;;
+1609;Powiat opolski;;
+1610;Powiat prudnicki;;
+1611;Powiat strzelecki;;
+1800;PODKARPACKIE;;
+1801;Powiat bieszczadzki;;
+1802;Powiat brzozowski;;
+1803;Powiat dêbicki;;
+1804;Powiat jaros³awski;;
+1805;Powiat jasielski;;
+1806;Powiat kolbuszowski;;
+1807;Powiat kroœnieñski;;
+1861;Powiat m.Krosno;;
+1808;Powiat le¿ajski;;
+1809;Powiat lubaczowski;;
+1810;Powiat ³añcucki;;
+1811;Powiat mielecki;;
+1812;Powiat ni¿añski;;
+1813;Powiat przemyski;;
+1862;Powiat m.Przemyœl;;
+1814;Powiat przeworski;;
+1815;Powiat ropczycko-sêdziszowski;;
+1816;Powiat rzeszowski;;
+1863;Powiat m.Rzeszów;;
+1817;Powiat sanocki;;
+1818;Powiat stalowowolski;;
+1819;Powiat strzy¿owski;;
+1820;Powiat tarnobrzeski;;
+1864;Powiat m.Tarnobrzeg;;
+1821;Powiat leski;;
+2000;PODLASKIE;;
+2001;Powiat augustowski;;
+2002;Powiat bia³ostocki;;
+2003;Powiat bielski;;
+2004;Powiat grajewski;;
+2005;Powiat hajnowski;;
+2006;Powiat kolneñski;;
+2007;Powiat ³om¿yñski;;
+2008;Powiat moniecki;;
+2009;Powiat sejneñski;;
+2010;Powiat siemiatycki;;
+2011;Powiat sokólski;;
+2012;Powiat suwalski;;
+2063;Powiat m.Suwa³ki;;
+2013;Powiat wysokomazowiecki;;
+2014;Powiat zambrowski;;
+2200;POMORSKIE;;
+2201;Powiat bytowski;;
+2202;Powiat chojnicki;;
+2203;Powiat cz³uchowski;;
+2204;Powiat gdañski;;
+2261;Powiat m.Gdañsk;;
+2262;Powiat m.Gdynia;;
+2205;Powiat kartuski;;
+2206;Powiat koœcierski;;
+2207;Powiat kwidzyñski;;
+2208;Powiat lêborski;;
+2209;Powiat malborski;;
+2210;Powiat nowodworski;;
+2211;Powiat pucki;;
+2212;Powiat s³upski;;
+2263;Powiat m.S³upsk;;
+2264;Powiat m.Sopot;;
+2213;Powiat starogardzki;;
+2214;Powiat tczewski;;
+2215;Powiat wejherowski;;
+2216;Powiat sztumski;;
+2400;ŒL¥SKIE;;
+2401;Powiat bêdziñski;;
+2402;Powiat bielski;;
+2461;Powiat m.Bielsko-Bia³a;;
+2414;Powiat bieruñsko-lêdziñski;;
+2462;Powiat m.Bytom;;
+2463;Powiat m.Chorzów;;
+2403;Powiat cieszyñski;;
+2404;Powiat czêstochowski;;
+2464;Powiat m.Czêstochowa;;
+2465;Powiat m.D¹browa Górnicza;;
+2405;Powiat gliwicki;;
+2466;Powiat m.Gliwice;;
+2467;Powiat m.Jastrzêbie-Zdrój;;
+2468;Powiat m.Jaworzno;;
+2469;Powiat m.Katowice;;
+2406;Powiat k³obucki;;
+2407;Powiat lubliniecki;;
+2408;Powiat miko³owski;;
+2470;Powiat m.Mys³owice;;
+2409;Powiat myszkowski;;
+2471;Powiat m.Piekary Œl¹skie;;
+2410;Powiat pszczyñski;;
+2411;Powiat raciborski;;
+2472;Powiat m.Ruda Œl¹ska;;
+2412;Powiat rybnicki;;
+2473;Powiat m.Rybnik;;
+2474;Powiat m.Siemianowice Œl¹skie;;
+2475;Powiat m.Sosnowiec;;
+2476;Powiat m.Œwiêtoch³owice;;
+2413;Powiat tarnogórski;;
+2477;Powiat m.Tychy;;
+2415;Powiat wodzis³awski;;
+2478;Powiat m.Zabrze;;
+2416;Powiat zawierciañski;;
+2479;Powiat m.¯ory;;
+2417;Powiat ¿ywiecki;;
+2600;ŒWIÊTOKRZYSKIE;;
+2601;Powiat buski;;
+2602;Powiat jêdrzejowski;;
+2603;Powiat kazimierski;;
+2604;Powiat kielecki;;
+2605;Powiat konecki;;
+2606;Powiat opatowski;;
+2607;Powiat ostrowiecki;;
+2608;Powiat piñczowski;;
+2609;Powiat sandomierski;;
+2610;Powiat skar¿yski;;
+2611;Powiat starachowicki;;
+2612;Powiat staszowski;;
+2613;Powiat w³oszczowski;;
+2800;WARMIÑSKO-MAZURSKIE;;
+2801;Powiat bartoszycki;;
+2802;Powiat braniewski;;
+2803;Powiat dzia³dowski;;
+2804;Powiat elbl¹ski;;
+2861;Powiat m.Elbl¹g;;
+2805;Powiat e³cki;;
+2806;Powiat gi¿ycki;;
+2807;Powiat i³awski;;
+2808;Powiat kêtrzyñski;;
+2809;Powiat lidzbarski;;
+2810;Powiat mr¹gowski;;
+2811;Powiat nidzicki;;
+2812;Powiat nowomiejski;;
+2813;Powiat olecki;;
+2814;Powiat olsztyñski;;
+2862;Powiat m.Olsztyn;;
+2815;Powiat ostródzki;;
+2816;Powiat piski;;
+2817;Powiat szczycieñski;;
+2818;Powiat go³dapski;;
+2819;Powiat wêgorzewski;;
+3000;WIELKOPOLSKIE;;
+3001;Powiat chodzieski;;
+3002;Powiat czarnkowsko-trzcianecki;;
+3003;Powiat gnieŸnieñski;;
+3004;Powiat gostyñski;;
+3005;Powiat grodziski;;
+3006;Powiat jarociñski;;
+3007;Powiat kaliski;;
+3008;Powiat kêpiñski;;
+3009;Powiat kolski;;
+3010;Powiat koniñski;;
+3011;Powiat koœciañski;;
+3012;Powiat krotoszyñski;;
+3013;Powiat leszczyñski;;
+3014;Powiat miêdzychodzki;;
+3015;Powiat nowotomyski;;
+3016;Powiat obornicki;;
+3017;Powiat ostrowski;;
+3018;Powiat ostrzeszowski;;
+3019;Powiat pilski;;
+3020;Powiat pleszewski;;
+3021;Powiat poznañski;;
+3022;Powiat rawicki;;
+3023;Powiat s³upecki;;
+3024;Powiat szamotulski;;
+3025;Powiat œredzki;;
+3026;Powiat œremski;;
+3027;Powiat turecki;;
+3028;Powiat w¹growiecki;;
+3029;Powiat wolsztyñski;;
+3030;Powiat wrzesiñski;;
+3031;Powiat z³otowski;;
+3200;ZACHODNIOPOMORSKIE;;
+3201;Powiat bia³ogardzki;;
+3202;Powiat choszczeñski;;
+3203;Powiat drawski;;
+3204;Powiat goleniowski;;
+3205;Powiat gryficki;;
+3206;Powiat gryfiñski;;
+3207;Powiat kamieñski;;
+3208;Powiat ko³obrzeski;;
+3209;Powiat koszaliñski;;
+3218;Powiat ³obeski;;
+3210;Powiat myœliborski;;
+3211;Powiat policki;;
+3212;Powiat pyrzycki;;
+3213;Powiat s³awieñski;;
+3214;Powiat stargardzki;;
+3215;Powiat szczecinecki;;
+3262;Powiat m.Szczecin;;
+3216;Powiat œwidwiñski;;
+3263;Powiat m.Œwinoujœcie;;
+3217;Powiat wa³ecki;;
